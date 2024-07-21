@@ -13,7 +13,7 @@ Como Utilizar
 
     bash
 
-git clone https://github.com/seu-usuario/calculadora-em-java.git
+git clone https://github.com/RonnyRocke/Calculadora.git
 
 Compile as classes:
 
