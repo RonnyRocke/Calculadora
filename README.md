@@ -1,5 +1,6 @@
 Calculadora em Java
-Descrição do Projeto
+
+Descrição do Projeto:
 
 Este projeto é uma calculadora simples em Java, capaz de realizar operações básicas como adição, subtração, multiplicação e divisão.
 Estrutura
@@ -7,7 +8,7 @@ Estrutura
     Calculadora: Classe que contém os métodos para realizar as operações matemáticas.
     Calculadora2: Classe principal que interage com o usuário, solicita os números e a operação, e exibe o resultado.
 
-Como Utilizar
+Como Utilizar:
 
     Clone o repositório:
 
@@ -23,6 +24,6 @@ Execute o programa:
 
     java Calculadora2
 
-Tecnologias
+Tecnologias:
 
     Java
