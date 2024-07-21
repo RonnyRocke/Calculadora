@@ -11,19 +11,15 @@ Como Utilizar
 
     Clone o repositório:
 
-    bash
-
 git clone https://github.com/RonnyRocke/Calculadora.git
 
 Compile as classes:
 
-bash
 
 javac Calculadora.java Calculadora2.java
 
 Execute o programa:
 
-bash
 
     java Calculadora2
 
